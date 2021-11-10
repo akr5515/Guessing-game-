@@ -1,0 +1,25 @@
+*{
+    font-family: 'Hina Mincho', serif;
+}
+
+body{
+    font-size: 20px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.show-msg{
+    display: none;
+}
+
+#input-number{
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.button-submit{
+    font-size: 20px;
+    border-radius: 10px;
+}
